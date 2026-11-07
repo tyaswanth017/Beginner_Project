@@ -1,0 +1,9 @@
+
+order_id,order_date,customer,product,quantity,unit_price
+1001,2026-11-01,Asha,Keyboard,2,799
+1002,2026-11-01,Ravi,Mouse,1,499
+1003,2026-11-02,Meena,Monitor,1,8999
+1004,2026-11-02,Arjun,Keyboard,,799
+1005,2026-11-03,Sara,Mouse,3,499
+1005,2026-11-03,Sara,Mouse,3,499
+1006,2026-11-04,Neha,Laptop Stand,1,1299
